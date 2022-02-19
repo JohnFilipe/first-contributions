@@ -5304,4 +5304,4 @@ Michael Wong
 - [tae100k](https://github.com/tae100k)
 - [adityamali](https://github.com/adityamali)
 - [ceemo](https://github.com/ceemo-twilio)
-- [John T](https://github.com/JohnFilipe)
+- [João T](https://github.com/joaoterroa)
